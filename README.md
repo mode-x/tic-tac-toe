@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Why
 
-This is basically meant for learning react. I followed the tutorial [here](https://reactjs.org/tutorial/tutorial.html) to recreate and learning by doing. It was easy to follow and properly explained. I will continue to explore other ways to improve the game and while learning react.
+This is basically meant for learning react. I followed the tutorial [here](https://reactjs.org/tutorial/tutorial.html) to recreate and learn by doing. It was easy to follow and properly explained.
 
 ### `TODO`
 
@@ -15,4 +15,4 @@ As suggested at the end of the tutorial:
 5. When someone wins, highlight the three squares that caused the win.
 6. When no one wins, display a message about the result being a draw.
 
-I intend to explore these and more.
+I will continue to explore these and other ways to improve the game while learning react.
